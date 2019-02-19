@@ -1,0 +1,4 @@
+﻿  002002_Flaeche.cpp
+c:\users\nemeck\source\repos\002002_flaeche\002002_flaeche\002002_flaeche.cpp(25): warning C4477: "scanf_s": Die Formatzeichenfolge "%d" erfordert ein Argument vom Typ "int *", das variadic-Argument "1" weist aber den Typ "double *" auf.
+c:\users\nemeck\source\repos\002002_flaeche\002002_flaeche\002002_flaeche.cpp(27): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+  002002_Flaeche.vcxproj -> C:\Users\nemeck\source\repos\002002_Flaeche\Debug\002002_Flaeche.exe

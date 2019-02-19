@@ -1,0 +1,10 @@
+﻿  010.001_MitgliedsbeitragMitFunktionen.cpp
+h:\source\repos\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen.cpp(16): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  h:\source\repos\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen.cpp(16): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  h:\source\repos\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen.cpp(16): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+  h:\source\repos\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen.cpp(16): note: Dieses Argument wird als Puffergröße verwendet.
+h:\source\repos\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen.cpp(30): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  h:\source\repos\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen.cpp(30): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  h:\source\repos\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen.cpp(30): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+  h:\source\repos\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen\010.001_mitgliedsbeitragmitfunktionen.cpp(30): note: Dieses Argument wird als Puffergröße verwendet.
+  010.001_MitgliedsbeitragMitFunktionen.vcxproj -> H:\source\repos\010.001_MitgliedsbeitragMitFunktionen\Debug\010.001_MitgliedsbeitragMitFunktionen.exe

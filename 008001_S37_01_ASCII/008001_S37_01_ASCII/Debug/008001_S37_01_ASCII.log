@@ -1,0 +1,6 @@
+﻿  008001_S37_01_ASCII.cpp
+h:\source\repos\008001_s37_01_ascii\008001_s37_01_ascii\008001_s37_01_ascii.cpp(60): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  h:\source\repos\008001_s37_01_ascii\008001_s37_01_ascii\008001_s37_01_ascii.cpp(60): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  h:\source\repos\008001_s37_01_ascii\008001_s37_01_ascii\008001_s37_01_ascii.cpp(60): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+  h:\source\repos\008001_s37_01_ascii\008001_s37_01_ascii\008001_s37_01_ascii.cpp(60): note: Dieses Argument wird als Puffergröße verwendet.
+  008001_S37_01_ASCII.vcxproj -> H:\source\repos\008001_S37_01_ASCII\Debug\008001_S37_01_ASCII.exe
