@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  stringfunktionen_s51.cpp
+c:\users\rupprechtj\source\repos\c-tag5\stringfunktionen_s51\stringfunktionen_s51.cpp(20): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\rupprechtj\source\repos\c-tag5\stringfunktionen_s51\stringfunktionen_s51.cpp(27): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  stringfunktionen_s51.vcxproj -> C:\Users\rupprechtj\source\repos\c-tag5\Debug\stringfunktionen_s51.exe

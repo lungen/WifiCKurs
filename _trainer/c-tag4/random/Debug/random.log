@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  random.cpp
+c:\users\rupprechtj\source\repos\c-tag4\random\random.cpp(12): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  random.vcxproj -> c:\users\rupprechtj\source\repos\c-tag4\Debug\random.exe

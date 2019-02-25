@@ -1,0 +1,5 @@
+﻿  menue_s42_bsp2.cpp
+c:\users\rupprechtj\source\repos\c-tag4\menue_s42_bsp2\menue_s42_bsp2.cpp(61): warning C4101: "ein": Unreferenzierte lokale Variable
+c:\users\rupprechtj\source\repos\c-tag4\menue_s42_bsp2\menue_s42_bsp2.cpp(132): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\rupprechtj\source\repos\c-tag4\menue_s42_bsp2\menue_s42_bsp2.cpp(133): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  menue_s42_bsp2.vcxproj -> c:\users\rupprechtj\source\repos\c-tag4\Debug\menue_s42_bsp2.exe

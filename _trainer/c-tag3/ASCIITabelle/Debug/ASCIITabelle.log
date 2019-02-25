@@ -1,0 +1,4 @@
+﻿  ASCIITabelle.cpp
+c:\users\rupprechtj\source\repos\c-tag3\asciitabelle\asciitabelle.cpp(10): warning C4101: "erg": Unreferenzierte lokale Variable
+c:\users\rupprechtj\source\repos\c-tag3\asciitabelle\asciitabelle.cpp(10): warning C4101: "c": Unreferenzierte lokale Variable
+  ASCIITabelle.vcxproj -> c:\users\rupprechtj\source\repos\c-tag3\Debug\ASCIITabelle.exe

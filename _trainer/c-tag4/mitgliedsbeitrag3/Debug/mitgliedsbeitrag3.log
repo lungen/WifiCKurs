@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  mitgliedsbeitrag3.cpp
+c:\users\rupprechtj\source\repos\c-tag4\mitgliedsbeitrag3\mitgliedsbeitrag3.cpp(14): warning C4101: "ein": Unreferenzierte lokale Variable
+c:\users\rupprechtj\source\repos\c-tag4\mitgliedsbeitrag3\mitgliedsbeitrag3.cpp(66): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+  mitgliedsbeitrag3.vcxproj -> c:\users\rupprechtj\source\repos\c-tag4\Debug\mitgliedsbeitrag3.exe

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  stringausgabe_s49.cpp
+c:\users\rupprechtj\source\repos\c-tag5\stringausgabe_s49\stringausgabe_s49.cpp(9): warning C4101: "k": Unreferenzierte lokale Variable
+  stringausgabe_s49.vcxproj -> C:\Users\rupprechtj\source\repos\c-tag5\Debug\stringausgabe_s49.exe
