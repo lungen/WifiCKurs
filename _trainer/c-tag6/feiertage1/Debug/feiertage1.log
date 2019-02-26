@@ -1,0 +1,4 @@
+﻿  feiertage1.cpp
+c:\users\rupprechtj\source\repos\c-tag6\feiertage1\feiertage1.cpp(16): warning C4101: "monat1": Unreferenzierte lokale Variable
+c:\users\rupprechtj\source\repos\c-tag6\feiertage1\feiertage1.cpp(16): warning C4101: "tag1": Unreferenzierte lokale Variable
+  feiertage1.vcxproj -> C:\Users\rupprechtj\source\repos\c-tag6\Debug\feiertage1.exe
