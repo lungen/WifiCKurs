@@ -1,0 +1,80 @@
+
+   1   // taschenrechner.cpp : Diese Datei enthält die Funktion "main". Hier beginnt und endet die Ausführung des Programms.
+0002   //
+0003   
+0004   #include "pch.h"
+0005   #include <iostream>
+0006   
+0007   char coperator(void);
+0008   char weiter(void);
+0009   float operand(void);
+0010   float berechnung(void);
+0011   int main()
+0012   {
+0013      //      printf("\n%c",weiter());
+0014      //   printf("\n%c",coperator());
+0015      //   printf("\n%f\n",operand());
+0016      //printf("\n%f\n",berechnung());
+0017      do
+0018         printf("\n%f\n", berechnung());
+0019      while (weiter() == 'j');
+0020      return 0;
+0021   }
+0022   char coperator()
+0023   {
+0024      char zeichen;
+0025      do
+0026      {
+0027         printf("Geben Sie + - * /oder = ein");
+0028         zeichen = getchar();
+0029         while (getchar() != '\n');//fflush(stdin);
+0030      } while (zeichen != '+' && zeichen != '-' && zeichen != '*' && zeichen != '/' &&zeichen != '=');
+0031      return zeichen;
+0032   }
+0033   char weiter()
+0034   {
+0035      char zeichen;
+0036      do
+0037      {
+0038         printf("\nWeiter? ( j / n )");
+0039         zeichen = getchar();
+0040         while (getchar() != '\n');
+0041      } while (zeichen != 'j' && zeichen != 'n');
+0042      return zeichen;
+0043   }
+0044   float operand()
+0045   {
+0046      float zahl;
+0047      printf("\nGeben Sie eine Zahl ein:");
+0048      scanf_s("%f", &zahl);
+0049      while (getchar() != '\n');
+0050      return zahl;
+0051   }
+0052   
+0053   float berechnung()
+0054   {
+0055      float ergebnis;
+0056      char op;
+0057      ergebnis = operand();
+0058      do
+0059      {
+0060         op = coperator();
+0061         switch (op)
+0062         {
+0063         case '+':
+0064            ergebnis += operand();
+0065            break;
+0066         case '-':
+0067            ergebnis -= operand();
+0068            break;
+0069         case '*':
+0070            ergebnis *= operand();
+0071            break;
+0072         case '/':
+0073            ergebnis /= operand();
+0074            break;
+0075         }
+0076      } while (op != '=');
+0077      return ergebnis;
+0078   }
+
