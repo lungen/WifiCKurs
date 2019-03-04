@@ -1,4 +1,2 @@
 ﻿  019.001.FeiertagsTabelle.cpp
-h:\source\repos\019.001.feiertagstabelle\019.001.feiertagstabelle\019.001.feiertagstabelle.cpp(67): warning C4474: "printf": zu viele Argumente für Formatzeichenfolge übergeben
-  h:\source\repos\019.001.feiertagstabelle\019.001.feiertagstabelle\019.001.feiertagstabelle.cpp(67): note: Platzhalter und deren Parameter erwarten 0 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
   019.001.FeiertagsTabelle.vcxproj -> H:\source\repos\019.001.FeiertagsTabelle\Debug\019.001.FeiertagsTabelle.exe
