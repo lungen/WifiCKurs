@@ -1,0 +1,3 @@
+﻿  VS_Code_021.cpp
+h:\source\repos\021.001.s79.p2.dateieinlesen\vs_code_021\vs_code_021\vs_code_021.cpp(17): error C2660: "fopen_s": Funktion akzeptiert keine 1 Argumente
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(97): note: Siehe Deklaration von "fopen_s"

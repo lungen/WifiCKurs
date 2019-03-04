@@ -1,0 +1,11 @@
+Byte-Reihenfolge
+
+Die Byte-Reihenfolge (englisch byte order oder endianness) bezeichnet 
+in der Computertechnik die Speicherorganisation für einfache Zahlenwerte, 
+in erster Linie die Ablage von ganzzahligen Werten (Integer) im Arbeitsspeicher.
+Die ersten Rechnerarchitekturen haben die Darstellung von mehrstelligen Zahlen 
+aus dem Alltag entsprechend der Konvention des Stellenwertsystems übernommen, 
+zunächst für dezimal, dann auch für binär dargestellte Zahlen. 
+In dieser Konvention beginnt die Notation einer Zahl mit der Ziffer an der 
+höchstwertigen Stelle. Addition, Subtraktion und Multiplikation beginnen aber mit der 
+niedrigstwertigen Ziffer, der Einerstelle. 
